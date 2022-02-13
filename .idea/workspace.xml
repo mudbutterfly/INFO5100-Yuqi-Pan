@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9138eca0-9297-491a-bbdf-a4f80e971752" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9138eca0-9297-491a-bbdf-a4f80e971752" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +32,7 @@
       <workItem from="1643258336846" duration="185000" />
       <workItem from="1643494039483" duration="540000" />
       <workItem from="1643519660577" duration="9000" />
+      <workItem from="1644533861838" duration="143000" />
     </task>
     <servers />
   </component>
